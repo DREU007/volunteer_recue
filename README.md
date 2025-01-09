@@ -1,7 +1,9 @@
 ## Локальный запуск:
 ##### 1. Клонируем проект:
    В консоли (Bash Linux) заходим в нужную нам дирректорию и вводим:
-   ```git clone git@github.com:DREU007/volunteer_recue.git```
+   ```
+   git clone git@github.com:DREU007/volunteer_recue.git
+   ```
 
 ##### 2. Переходим в дирректорию `/volunteer_recue` либо открываем проект в своей IDE.
    Устанавливаем зависимости и активируем виртуально окружение:
